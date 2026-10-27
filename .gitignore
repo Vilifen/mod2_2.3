@@ -1,0 +1,34 @@
+
+# Компилируемые файлы
+*.o
+*.obj
+*.out
+*.exe
+*.app
+*.dylib
+*.so
+*.a
+
+# Скомпилированная программа
+calculator
+calculator.exe
+
+# Папки сборки
+build/
+dist/
+
+# Настройки редакторов
+.vscode/
+.vs/
+
+# Временные файлы
+*.tmp
+*.bak
+*~
+
+# Файлы macOS и Windows
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+Desktop.ini
